@@ -102,6 +102,7 @@ public class lesson4 {
             if (map[0][i]== symb&&map[1][i]==symb&&map[2][i]==symb&&map[3][i]==symb) return true;
         }
         return first||second;
+        // на диагонали не хватает мозгов) да и вообще сложно, как стать програмистов за месяц:)
 
 
 
